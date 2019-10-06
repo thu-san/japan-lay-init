@@ -1,16 +1,20 @@
-Customer Info
+Customer Table
 -ID
 -Name
 -Birth Date
 -Ph no
--Address
+-Address -> JP and MM
 -Profile pic (if possible)
+-Password
+-Email
+
 
 Post Info
--KG amount
--KG Price
+-ID
+-Total Kilo
+-Price per kilo
 -Last Delivery Date
 -Departure Date
 -Place to send(JP/MM)
 -Place to take(JP/MM)
--Contace(JP/MM)
+-Contact(JP/MM)
